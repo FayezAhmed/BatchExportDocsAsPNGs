@@ -20,7 +20,7 @@ Before running this script, ensure that you have Adobe Illustrator installed on 
 3. Next, the script will prompt you to select a destination folder where the PNG files will be saved.
 4. Choose the desired destination folder from the file selection dialog.
 5. The script will then process each AI file in the source folder and convert it to PNG format.
-6. During the conversion process, a 1-second delay is added between each file to ensure smooth execution.
+6. During the conversion process, a 1-second delay is added between each file to ensure smooth execution. (Increase this value if you have a slower system.)
 7. Once all the files have been converted, an alert will be displayed indicating that the conversion is complete.
 
 ## Export Options
